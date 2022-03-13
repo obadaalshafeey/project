@@ -1,0 +1,174 @@
+.picture{
+    
+    background-image:url(../img/obada.jpg) ;
+background-repeat: no-repeat;
+height: 500px;
+width: 100%;
+
+
+}
+.d1{
+    color: white;
+position: absolute;
+left:60%;
+top: 46%;
+font-size:medium;
+}
+.d2{
+
+    text-align-last: center;
+}
+.d3{
+color: white;
+background-color: black;
+border: 10px black;
+padding: 5px;
+text-align-last:center ;
+display: inline;
+position: absolute;
+left: 50%;
+bottom: 2%;
+}
+.d4{
+position: absolute;
+left: 300px;
+}
+.d0{
+background-color: white;
+border: 3px;
+position: absolute;
+top: 135%;
+left: 20%;
+}
+.d5{
+    position: absolute;
+    left: 600px;
+
+}
+.d6{
+
+    position: absolute;
+left: 1000px;
+bottom: -30%;
+}
+.d01{
+    background-color: white;
+    border: 3px;
+    position: absolute;
+    top: 135%;
+    left: 43%;
+    }
+    .d02{
+        background-color: white;
+        border: 3px;
+        position: absolute;
+        top: 135%;
+        left: 67%;
+       
+        }
+        .d7{
+            color: white;
+background-color: black;
+border: 10px black;
+padding: 5px;
+text-align-last:center ;
+display: inline;
+position: absolute;
+left: 50%;
+bottom: -48%;
+        }
+        .d8{
+           position: absolute;
+          left: 20%;
+border: 1px solid black;
+height: 300px;
+width: 1000px;
+bottom: -95%;
+        }
+        .d03{position: absolute;
+left: 10%;
+bottom: 40%;
+
+        }
+        .d04{
+position: absolute;
+left: 60%;
+bottom: 40%;
+        }
+   .d05{position: absolute;
+    bottom: 12%;
+left: 5%;
+   }     
+.d06{
+    position: absolute;
+    bottom: 12%;
+    left: 56%;
+}
+.d07{
+position: absolute;
+bottom: -88%;
+right: 50%;
+}
+.d08{
+    position: absolute;
+    bottom: -88%;
+right: 50%;
+}
+.d9{
+    color: white;
+    background-color: black;
+    border: 10px black;
+    padding: 5px;
+    text-align-last:center ;
+    display: inline;
+    position: absolute;
+    left: 50%;
+    bottom: -110%;
+
+}
+.d10{
+    position: absolute;
+    left: 20%;
+border: 1px solid black;
+height: 150px;
+width: 1000px;
+bottom: -130%;
+}
+.d11{
+    text-align: center;
+}
+.d12{
+    position: absolute;
+    left: 20%;
+border: 1px solid black;
+height: 170px;
+width: 1000px;
+bottom: -160%;
+}
+.d13{
+   
+    position: absolute;
+    left: 20%;
+border: 1px solid black;
+height: 145px;
+width:140px;
+bottom: -159%;
+left:21%;
+
+}
+.d14{
+
+    position: absolute;
+    left: 20%;
+border: 1px solid black;
+height:40px;
+width:140px;
+bottom: 70%;
+left:300%;
+text-align: center;
+}
+.d15{
+    position: absolute;
+    right: 20%;
+    bottom: -150%;
+}
