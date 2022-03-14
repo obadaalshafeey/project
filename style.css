@@ -7,7 +7,7 @@ body{
   height: 1000px;
 }
 .container-fluide{
-background-image:url(../img/pp.png) ;
+background-image:url(./img/1519801644161.jpg) ;
 height: 350px;
 background-size: cover;
 background-color: black;
@@ -31,6 +31,9 @@ top: 59px;
   left: 680px;
   top: 250px;
 
+
+
+
 }
 .d3{
   color: rgb(132, 154, 173);
@@ -42,6 +45,10 @@ background-color: rgb(255, 255, 255);
 .d3 p{
   margin: 0%;
 }
+
+
+
+
 .row{
   display: flex;
   text-align:center;
@@ -55,22 +62,20 @@ background-color: rgb(255, 255, 255);
   height: 150px;
 }
 .d4{
-  text-align: center;
-  position: absolute;
-
+  
+text-align: center;
   color: rgb(132, 154, 173);
   background-color: darkblue;
 
 }
-.EDU{
-background-color: rgb(247, 247, 247);}
-.EDU h1{
-  margin: 0%;
-  position: relative;
+
+
 }
 .container{
+border: 2px solid black;
 
-  position: relative;
+
+ 
 }
 .d5{
   text-align: center;
@@ -82,11 +87,11 @@ position: relative;
 margin: 300px;
 }
 
-.d7{
-  text-align: center;
-  color: rgb(98, 130, 158);
-background-color: darkblue;
+.d7{ text-align: center;
+  color: rgb(132, 154, 173);
+  background-color: darkblue;
 }
+  
 .d10{
 
   background-color: black;
@@ -95,3 +100,20 @@ background-color: darkblue;
   text-align: center;
   
 }
+
+@media screen and (max-width:1000px) {
+  .d2,.d1{position: absolute; left: 45%;}
+  #img{position: absolute;left:200px;}
+  .d2{position: absolute;top: 290px;}
+  *{font-size: xx-small; }
+  .c3,.c2,.c1{width: 50px; height: 50px; }
+
+
+.d6{position: relative; right: 120px;}
+}
+
+
+
+  
+
+
